@@ -1,0 +1,29 @@
+{
+  "name": "mean-demo",
+  "description": "MEAN Web Development.pdf Project",
+  "main": "",
+  "authors": [
+    "Reef Longdon-Morley"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "AngularJS",
+    "NodeJS"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7",
+    "angular-resource": "~1.4.7"
+  }
+}
